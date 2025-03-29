@@ -1,0 +1,27 @@
+.logContainer{
+    background-color: rgba(153, 162, 194, 0.384);
+    width: 30vw;
+    padding: 1rem;
+}
+.logDesc{
+    text-align: left;
+}
+
+.logInput{
+    width: 100%;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    height: 100%;
+}
+fieldset{
+    border-radius: 10px;
+}
+legend{
+    text-align: left;
+    color: rgb(97, 74, 230);
+}
+
+.logBtn{
+    margin-top: 1rem;
+}

@@ -1,0 +1,43 @@
+
+.hContainer{
+    background-color: rgba(51, 50, 50, 0.993);
+    width: 40vw;
+    
+}
+.hTitle{
+    padding: 1rem 0;
+    font-size: 1.2rem;
+}
+.userBox{
+    width: 90%;
+}
+.userBox>.top{
+    display: flex;
+    padding-left: 1rem;
+    align-items: center;
+    gap: 1.5rem;
+}
+.top>.left{
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+}
+.top>.left>img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-size: cover;
+}
+.top>.right{
+    text-align: left;
+}
+
+.bottom{
+    width: 100%;
+}
+
+.bottom>p{
+    text-align: justify;
+    padding: 1rem;
+    width: 100%;
+}

@@ -1,0 +1,9 @@
+.lanContainer{
+    background-color: rgba(51, 50, 50, 0.993);
+    width: 50vw;
+    padding: 1rem;
+}
+
+.lanBtn{
+    margin: 1rem;
+}

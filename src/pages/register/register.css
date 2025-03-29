@@ -1,0 +1,21 @@
+.regContainer{
+    background-color: rgba(93, 154, 179, 0.993);
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.regInput{
+    width: 100%;
+    height: 100%;
+    border: none;
+    background-color: transparent;
+    outline: none;    
+}
+
+.regBtn{
+    margin-top: 1rem;
+}
+
+.radio{
+    padding: 0.5rem;
+}

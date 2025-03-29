@@ -20,7 +20,7 @@ function App() {
     return children
   }
   return (
-    <BrowserRouter basename='/AdobeXD-' >
+    <BrowserRouter basename='/assignment1' >
       <Routes>
         <Route path='/landing' element={<Landing/>} />  
         <Route path='/login' element={<Login user={handleUser}/>} />  
